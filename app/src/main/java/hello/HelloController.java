@@ -8,6 +8,6 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Hello This is Our First Azure Devops Pipelines 'Welcome To The Java World '";
+        return "Hello This is Our First Azure Devops Pipeline 'Welcome To The Java World '";
     }   
 }
